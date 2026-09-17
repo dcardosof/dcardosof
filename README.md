@@ -16,9 +16,9 @@
 ## Meu Roadmap (Próximos 6 meses)
 - [x] Mapear minha carreira em um Canva
 - [x] Criar README de perfil no GitHub
-- [] Subir 2 projetos no GitHub (com documentação)
-- [] Melhorar meu nível de inglês
-- [] Estudar algoritmos
+- [ ] Subir 2 projetos no GitHub (com documentação)
+- [ ] Melhorar meu nível de inglês
+- [ ] Estudar algoritmos
 
 ## Projetos em Destaque
 
@@ -30,4 +30,3 @@
 
 - [LinkedIn](www.linkedin.com/in/daisycfcontato)
 - `daisycfcontato@gmail.com`
-
