@@ -1,7 +1,7 @@
 ## Quem Sou Eu?
 - Técnica em `Desenvolvimento de Sistemas`
 - Estudante de `Ciência da Computação`
-- Buscar atuar como `Desenvolvedora de Sistema (Júnior)`
+- Busco atuar como `Desenvolvedora de Sistema (Júnior)`
 - Atualmente buscando aprofundar meus conhecimentos em `HTML, CSS, C e PYTHON`
 
 ## Tecnologias e Ferramentas
